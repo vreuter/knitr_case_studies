@@ -6,16 +6,7 @@ bibliography: probability_on_product_spaces.bib
 csl: institute-of-mathematical-statistics.csl
 link-citations: yes
 linkcolor: blue
-output:
-  html_document:
-    fig_caption: yes
-    theme: spacelab #sandstone #spacelab #flatly
-    highlight: pygments
-    toc: TRUE
-    toc_depth: 3
-    number_sections: TRUE
-    toc_float:
-      smooth_scroll: FALSE
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
