@@ -9,3 +9,7 @@
 *.rds
 *_files
 *_cache
+*.out
+Rplots.pdf
+*.pdf
+
